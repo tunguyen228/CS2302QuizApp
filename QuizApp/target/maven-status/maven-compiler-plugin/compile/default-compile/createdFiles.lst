@@ -1,0 +1,9 @@
+com\mycompany\pojo\Category.class
+com\mycompany\quizapp\utils\JdbcConnector.class
+com\mycompany\quizapp\utils\MyAlert.class
+com\mycompany\service\CategoryServices.class
+com\mycompany\quizapp\App.class
+com\mycompany\quizapp\SecondaryController.class
+module-info.class
+com\mycompany\quizapp\QuestionsController.class
+com\mycompany\quizapp\PrimaryController.class
